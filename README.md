@@ -1,5 +1,2 @@
 # Project
-
 ## Overview
-
-## Features
